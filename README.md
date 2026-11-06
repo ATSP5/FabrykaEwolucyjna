@@ -2,7 +2,7 @@
 
 Harmonogramowanie losowego strumienia zleceń w fabryce algorytmem ewolucyjnym, którego kolejne kroki wykonują kernele CUDA. Projekt jest przeznaczony dla osób analizujących przepustowość produkcji i terminowość zleceń.
 
-Fabryka ma maszyny A×3, B×4, C×2, D×1, E×5 i F×8. Każdy z ośmiu produktów ma przepis, np. X: A 30 min, B 10 min, A 4 min, D 8 min. Celem jest kolejność operacji minimalizująca ważone spóźnienia.
+Fabryka ma maszyny A×3, B×4, C×2, D×1, E×5 i F×8. Każdy z ośmiu produktów ma przepis liczący od 8 do 16 kroków, np. X zaczyna się od: A 30 min, B 10 min, A 4 min, D 8 min. Domyślny strumień to przeciążona zmiana: 199 zleceń i 2 286 operacji w 12 h napływu, z obciążeniem rozłożonym na wszystkie typy maszyn. Celem jest kolejność operacji minimalizująca ważone spóźnienia.
 
 ## Metoda
 

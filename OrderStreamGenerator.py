@@ -11,13 +11,13 @@ class OrderStreamGenerator:
     """A random, reproducible stream of orders, sized to load the factory's busiest machine type."""
 
     def __init__(self, machines: list[MachineGroup], recipes: list[Recipe], seed: int = 2026,
-                 shift_minutes: int = 480, bottleneck_load: float = 0.9,
-                 deadline_minutes: tuple = (60, 90, 120, 180, 240), weights: tuple = (1, 1, 1, 2, 3),
+                 shift_minutes: int = 720, bottleneck_load: float = 1.4,
+                 deadline_minutes: tuple = (120, 150, 180, 240, 300), weights: tuple = (1, 1, 1, 2, 3, 5),
                  min_slack_ratio: float = 1.2):
         if shift_minutes <= 0:
             raise ValueError("shift_minutes must be positive")
-        if not 0.0 < bottleneck_load <= 1.5:
-            raise ValueError("bottleneck_load must be in (0, 1.5]")
+        if not 0.0 < bottleneck_load <= 3.0:
+            raise ValueError("bottleneck_load must be in (0, 3]")
         if not deadline_minutes or min(deadline_minutes) <= 0:
             raise ValueError("deadline_minutes must hold positive values")
         if not weights or min(weights) <= 0:

@@ -9,7 +9,7 @@
         "documentationText": "",
         "documentationFile": "MachineGroup.md",
         "nodeCathegory": 3,
-        "id": 75,
+        "id": 79,
         "settings": {
           "objectifable": false,
           "canBeMain": true,
@@ -68,7 +68,7 @@
         "documentationText": "",
         "documentationFile": "RecipeStep.md",
         "nodeCathegory": 3,
-        "id": 76,
+        "id": 80,
         "settings": {
           "objectifable": false,
           "canBeMain": true,
@@ -127,7 +127,7 @@
         "documentationText": "",
         "documentationFile": "Recipe.md",
         "nodeCathegory": 3,
-        "id": 77,
+        "id": 81,
         "settings": {
           "objectifable": false,
           "canBeMain": true,
@@ -186,7 +186,7 @@
         "documentationText": "",
         "documentationFile": "ProductionOrder.md",
         "nodeCathegory": 3,
-        "id": 78,
+        "id": 82,
         "settings": {
           "objectifable": false,
           "canBeMain": true,
@@ -245,7 +245,7 @@
         "documentationText": "",
         "documentationFile": "FactoryProblem.md",
         "nodeCathegory": 3,
-        "id": 79,
+        "id": 83,
         "settings": {
           "objectifable": false,
           "canBeMain": true,
@@ -304,7 +304,7 @@
         "documentationText": "",
         "documentationFile": "EvolutionResult.md",
         "nodeCathegory": 3,
-        "id": 80,
+        "id": 84,
         "settings": {
           "objectifable": false,
           "canBeMain": true,
@@ -363,7 +363,7 @@
         "documentationText": "",
         "documentationFile": "ScheduledOperation.md",
         "nodeCathegory": 3,
-        "id": 81,
+        "id": 85,
         "settings": {
           "objectifable": false,
           "canBeMain": true,
@@ -422,7 +422,7 @@
         "documentationText": "",
         "documentationFile": "FactoryCatalog.md",
         "nodeCathegory": 3,
-        "id": 82,
+        "id": 86,
         "settings": {
           "objectifable": false,
           "canBeMain": true,
@@ -492,7 +492,7 @@
         "documentationText": "",
         "documentationFile": "OrderStreamGenerator.md",
         "nodeCathegory": 3,
-        "id": 83,
+        "id": 87,
         "settings": {
           "objectifable": false,
           "canBeMain": true,
@@ -568,7 +568,7 @@
         "documentationText": "",
         "documentationFile": "ProblemEncoder.md",
         "nodeCathegory": 3,
-        "id": 84,
+        "id": 88,
         "settings": {
           "objectifable": false,
           "canBeMain": true,
@@ -684,7 +684,7 @@
         "documentationText": "",
         "documentationFile": "PriorityRuleSeeder.md",
         "nodeCathegory": 3,
-        "id": 85,
+        "id": 89,
         "settings": {
           "objectifable": false,
           "canBeMain": true,
@@ -755,7 +755,7 @@
         "documentationText": "",
         "documentationFile": "PopulationInitializer.md",
         "nodeCathegory": 3,
-        "id": 86,
+        "id": 90,
         "settings": {
           "objectifable": false,
           "canBeMain": true,
@@ -836,7 +836,7 @@
         "documentationText": "",
         "documentationFile": "EvaluateSchedules.md",
         "nodeCathegory": 4,
-        "id": 87,
+        "id": 91,
         "settings": {
           "objectifable": false,
           "canBeMain": false,
@@ -947,7 +947,7 @@
         "documentationText": "",
         "documentationFile": "BreedGeneration.md",
         "nodeCathegory": 4,
-        "id": 88,
+        "id": 92,
         "settings": {
           "objectifable": false,
           "canBeMain": false,
@@ -1028,7 +1028,7 @@
         "documentationText": "",
         "documentationFile": "ReplaceSurvivors.md",
         "nodeCathegory": 4,
-        "id": 89,
+        "id": 93,
         "settings": {
           "objectifable": false,
           "canBeMain": false,
@@ -1124,7 +1124,7 @@
         "documentationText": "",
         "documentationFile": "CUDAKernelLoader.md",
         "nodeCathegory": 3,
-        "id": 90,
+        "id": 94,
         "settings": {
           "objectifable": false,
           "canBeMain": true,
@@ -1215,7 +1215,7 @@
         "documentationText": "",
         "documentationFile": "PolishNumberFormat.md",
         "nodeCathegory": 3,
-        "id": 91,
+        "id": 95,
         "settings": {
           "objectifable": false,
           "canBeMain": true,
@@ -1280,7 +1280,7 @@
         "documentationText": "",
         "documentationFile": "EvolutionEngine.md",
         "nodeCathegory": 3,
-        "id": 92,
+        "id": 96,
         "settings": {
           "objectifable": false,
           "canBeMain": true,
@@ -1381,7 +1381,7 @@
         "documentationText": "",
         "documentationFile": "ScheduleDecoder.md",
         "nodeCathegory": 3,
-        "id": 93,
+        "id": 97,
         "settings": {
           "objectifable": false,
           "canBeMain": true,
@@ -1462,7 +1462,7 @@
         "documentationText": "",
         "documentationFile": "ScheduleAnalysis.md",
         "nodeCathegory": 3,
-        "id": 94,
+        "id": 98,
         "settings": {
           "objectifable": false,
           "canBeMain": true,
@@ -1543,7 +1543,7 @@
         "documentationText": "",
         "documentationFile": "AnalysisFileWriter.md",
         "nodeCathegory": 3,
-        "id": 95,
+        "id": 99,
         "settings": {
           "objectifable": false,
           "canBeMain": true,
@@ -1622,8 +1622,8 @@
         "title": "AnalysisFileWriter",
         "targetPath": ""
       },
-      "locationX": 2669,
-      "locationY": 250
+      "locationX": 700,
+      "locationY": -315
     },
     {
       "nodeData": {
@@ -1634,7 +1634,7 @@
         "documentationText": "",
         "documentationFile": "FactoryDashboard.md",
         "nodeCathegory": 29,
-        "id": 96,
+        "id": 100,
         "settings": {
           "objectifable": false,
           "canBeMain": false,
@@ -1713,8 +1713,8 @@
         "title": "FactoryDashboard",
         "targetPath": ""
       },
-      "locationX": 2947,
-      "locationY": 52
+      "locationX": 2931,
+      "locationY": 90
     },
     {
       "nodeData": {
@@ -1725,7 +1725,7 @@
         "documentationText": "",
         "documentationFile": "Main.md",
         "nodeCathegory": 3,
-        "id": 97,
+        "id": 101,
         "settings": {
           "objectifable": false,
           "canBeMain": true,
@@ -1790,7 +1790,7 @@
         "documentationText": "",
         "documentationFile": "README.md",
         "nodeCathegory": 30,
-        "id": 98,
+        "id": 102,
         "settings": {
           "objectifable": false,
           "canBeMain": false,
@@ -1849,7 +1849,7 @@
         "documentationText": "",
         "documentationFile": "Dockerfile_(GPU_run_image).md",
         "nodeCathegory": 22,
-        "id": 99,
+        "id": 103,
         "settings": {
           "objectifable": false,
           "canBeMain": false,
@@ -1908,7 +1908,7 @@
         "documentationText": "",
         "documentationFile": "Docker_Compose_(GPU_run_image).md",
         "nodeCathegory": 23,
-        "id": 100,
+        "id": 104,
         "settings": {
           "objectifable": false,
           "canBeMain": false,
@@ -1961,62 +1961,6 @@
   ],
   "connections": [
     {
-      "sourceNodeId": 82,
-      "sourceConnectorIndex": 0,
-      "targetNodeId": 83,
-      "targetConnectorIndex": 0,
-      "isChosen": false
-    },
-    {
-      "sourceNodeId": 82,
-      "sourceConnectorIndex": 1,
-      "targetNodeId": 83,
-      "targetConnectorIndex": 1,
-      "isChosen": false
-    },
-    {
-      "sourceNodeId": 82,
-      "sourceConnectorIndex": 0,
-      "targetNodeId": 84,
-      "targetConnectorIndex": 0,
-      "isChosen": false
-    },
-    {
-      "sourceNodeId": 82,
-      "sourceConnectorIndex": 1,
-      "targetNodeId": 84,
-      "targetConnectorIndex": 1,
-      "isChosen": false
-    },
-    {
-      "sourceNodeId": 83,
-      "sourceConnectorIndex": 0,
-      "targetNodeId": 84,
-      "targetConnectorIndex": 2,
-      "isChosen": false
-    },
-    {
-      "sourceNodeId": 84,
-      "sourceConnectorIndex": 0,
-      "targetNodeId": 85,
-      "targetConnectorIndex": 0,
-      "isChosen": false
-    },
-    {
-      "sourceNodeId": 84,
-      "sourceConnectorIndex": 0,
-      "targetNodeId": 86,
-      "targetConnectorIndex": 0,
-      "isChosen": false
-    },
-    {
-      "sourceNodeId": 85,
-      "sourceConnectorIndex": 0,
-      "targetNodeId": 86,
-      "targetConnectorIndex": 1,
-      "isChosen": false
-    },
-    {
       "sourceNodeId": 86,
       "sourceConnectorIndex": 0,
       "targetNodeId": 87,
@@ -2024,59 +1968,10 @@
       "isChosen": false
     },
     {
-      "sourceNodeId": 84,
-      "sourceConnectorIndex": 1,
-      "targetNodeId": 87,
-      "targetConnectorIndex": 1,
-      "isChosen": false
-    },
-    {
-      "sourceNodeId": 84,
-      "sourceConnectorIndex": 2,
-      "targetNodeId": 87,
-      "targetConnectorIndex": 2,
-      "isChosen": false
-    },
-    {
-      "sourceNodeId": 84,
-      "sourceConnectorIndex": 3,
-      "targetNodeId": 87,
-      "targetConnectorIndex": 3,
-      "isChosen": false
-    },
-    {
-      "sourceNodeId": 84,
-      "sourceConnectorIndex": 4,
-      "targetNodeId": 87,
-      "targetConnectorIndex": 4,
-      "isChosen": false
-    },
-    {
-      "sourceNodeId": 84,
-      "sourceConnectorIndex": 5,
-      "targetNodeId": 87,
-      "targetConnectorIndex": 5,
-      "isChosen": false
-    },
-    {
-      "sourceNodeId": 84,
-      "sourceConnectorIndex": 6,
-      "targetNodeId": 87,
-      "targetConnectorIndex": 6,
-      "isChosen": false
-    },
-    {
-      "sourceNodeId": 84,
-      "sourceConnectorIndex": 7,
-      "targetNodeId": 87,
-      "targetConnectorIndex": 7,
-      "isChosen": false
-    },
-    {
       "sourceNodeId": 86,
       "sourceConnectorIndex": 1,
       "targetNodeId": 87,
-      "targetConnectorIndex": 8,
+      "targetConnectorIndex": 1,
       "isChosen": false
     },
     {
@@ -2084,61 +1979,26 @@
       "sourceConnectorIndex": 0,
       "targetNodeId": 88,
       "targetConnectorIndex": 0,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 86,
+      "sourceConnectorIndex": 1,
+      "targetNodeId": 88,
+      "targetConnectorIndex": 1,
       "isChosen": false
     },
     {
       "sourceNodeId": 87,
       "sourceConnectorIndex": 0,
       "targetNodeId": 88,
-      "targetConnectorIndex": 1,
-      "isChosen": false
-    },
-    {
-      "sourceNodeId": 86,
-      "sourceConnectorIndex": 1,
-      "targetNodeId": 88,
       "targetConnectorIndex": 2,
-      "isChosen": false
-    },
-    {
-      "sourceNodeId": 86,
-      "sourceConnectorIndex": 0,
-      "targetNodeId": 89,
-      "targetConnectorIndex": 0,
-      "isChosen": false
-    },
-    {
-      "sourceNodeId": 87,
-      "sourceConnectorIndex": 0,
-      "targetNodeId": 89,
-      "targetConnectorIndex": 1,
       "isChosen": false
     },
     {
       "sourceNodeId": 88,
       "sourceConnectorIndex": 0,
       "targetNodeId": 89,
-      "targetConnectorIndex": 2,
-      "isChosen": false
-    },
-    {
-      "sourceNodeId": 87,
-      "sourceConnectorIndex": 0,
-      "targetNodeId": 89,
-      "targetConnectorIndex": 3,
-      "isChosen": false
-    },
-    {
-      "sourceNodeId": 86,
-      "sourceConnectorIndex": 1,
-      "targetNodeId": 89,
-      "targetConnectorIndex": 4,
-      "isChosen": false
-    },
-    {
-      "sourceNodeId": 87,
-      "sourceConnectorIndex": 0,
-      "targetNodeId": 90,
       "targetConnectorIndex": 0,
       "isChosen": false
     },
@@ -2146,14 +2006,77 @@
       "sourceNodeId": 88,
       "sourceConnectorIndex": 0,
       "targetNodeId": 90,
-      "targetConnectorIndex": 1,
+      "targetConnectorIndex": 0,
       "isChosen": false
     },
     {
       "sourceNodeId": 89,
       "sourceConnectorIndex": 0,
       "targetNodeId": 90,
+      "targetConnectorIndex": 1,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 90,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 91,
+      "targetConnectorIndex": 0,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 88,
+      "sourceConnectorIndex": 1,
+      "targetNodeId": 91,
+      "targetConnectorIndex": 1,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 88,
+      "sourceConnectorIndex": 2,
+      "targetNodeId": 91,
       "targetConnectorIndex": 2,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 88,
+      "sourceConnectorIndex": 3,
+      "targetNodeId": 91,
+      "targetConnectorIndex": 3,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 88,
+      "sourceConnectorIndex": 4,
+      "targetNodeId": 91,
+      "targetConnectorIndex": 4,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 88,
+      "sourceConnectorIndex": 5,
+      "targetNodeId": 91,
+      "targetConnectorIndex": 5,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 88,
+      "sourceConnectorIndex": 6,
+      "targetNodeId": 91,
+      "targetConnectorIndex": 6,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 88,
+      "sourceConnectorIndex": 7,
+      "targetNodeId": 91,
+      "targetConnectorIndex": 7,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 90,
+      "sourceConnectorIndex": 1,
+      "targetNodeId": 91,
+      "targetConnectorIndex": 8,
       "isChosen": false
     },
     {
@@ -2161,73 +2084,59 @@
       "sourceConnectorIndex": 0,
       "targetNodeId": 92,
       "targetConnectorIndex": 0,
-      "isChosen": false
-    },
-    {
-      "sourceNodeId": 90,
-      "sourceConnectorIndex": 1,
-      "targetNodeId": 92,
-      "targetConnectorIndex": 1,
-      "isChosen": false
-    },
-    {
-      "sourceNodeId": 90,
-      "sourceConnectorIndex": 2,
-      "targetNodeId": 92,
-      "targetConnectorIndex": 2,
-      "isChosen": false
-    },
-    {
-      "sourceNodeId": 84,
-      "sourceConnectorIndex": 0,
-      "targetNodeId": 92,
-      "targetConnectorIndex": 3,
-      "isChosen": false
-    },
-    {
-      "sourceNodeId": 86,
-      "sourceConnectorIndex": 0,
-      "targetNodeId": 92,
-      "targetConnectorIndex": 4,
-      "isChosen": false
-    },
-    {
-      "sourceNodeId": 86,
-      "sourceConnectorIndex": 1,
-      "targetNodeId": 92,
-      "targetConnectorIndex": 5,
       "isChosen": false
     },
     {
       "sourceNodeId": 91,
       "sourceConnectorIndex": 0,
       "targetNodeId": 92,
-      "targetConnectorIndex": 6,
+      "targetConnectorIndex": 1,
       "isChosen": false
     },
     {
-      "sourceNodeId": 84,
+      "sourceNodeId": 90,
+      "sourceConnectorIndex": 1,
+      "targetNodeId": 92,
+      "targetConnectorIndex": 2,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 90,
       "sourceConnectorIndex": 0,
       "targetNodeId": 93,
       "targetConnectorIndex": 0,
       "isChosen": false
     },
     {
-      "sourceNodeId": 92,
+      "sourceNodeId": 91,
       "sourceConnectorIndex": 0,
       "targetNodeId": 93,
       "targetConnectorIndex": 1,
       "isChosen": false
     },
     {
-      "sourceNodeId": 85,
+      "sourceNodeId": 92,
       "sourceConnectorIndex": 0,
       "targetNodeId": 93,
       "targetConnectorIndex": 2,
       "isChosen": false
     },
     {
-      "sourceNodeId": 84,
+      "sourceNodeId": 91,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 93,
+      "targetConnectorIndex": 3,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 90,
+      "sourceConnectorIndex": 1,
+      "targetNodeId": 93,
+      "targetConnectorIndex": 4,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 91,
       "sourceConnectorIndex": 0,
       "targetNodeId": 94,
       "targetConnectorIndex": 0,
@@ -2248,72 +2157,163 @@
       "isChosen": false
     },
     {
-      "sourceNodeId": 82,
-      "sourceConnectorIndex": 0,
-      "targetNodeId": 95,
-      "targetConnectorIndex": 0,
-      "isChosen": false
-    },
-    {
-      "sourceNodeId": 82,
-      "sourceConnectorIndex": 1,
-      "targetNodeId": 95,
-      "targetConnectorIndex": 1,
-      "isChosen": false
-    },
-    {
-      "sourceNodeId": 83,
-      "sourceConnectorIndex": 0,
-      "targetNodeId": 95,
-      "targetConnectorIndex": 2,
-      "isChosen": false
-    },
-    {
       "sourceNodeId": 94,
-      "sourceConnectorIndex": 0,
-      "targetNodeId": 95,
-      "targetConnectorIndex": 3,
-      "isChosen": false
-    },
-    {
-      "sourceNodeId": 95,
       "sourceConnectorIndex": 0,
       "targetNodeId": 96,
       "targetConnectorIndex": 0,
       "isChosen": false
     },
     {
-      "sourceNodeId": 92,
-      "sourceConnectorIndex": 0,
+      "sourceNodeId": 94,
+      "sourceConnectorIndex": 1,
       "targetNodeId": 96,
       "targetConnectorIndex": 1,
       "isChosen": false
     },
     {
       "sourceNodeId": 94,
-      "sourceConnectorIndex": 0,
+      "sourceConnectorIndex": 2,
       "targetNodeId": 96,
       "targetConnectorIndex": 2,
       "isChosen": false
     },
     {
-      "sourceNodeId": 95,
-      "sourceConnectorIndex": 1,
+      "sourceNodeId": 88,
+      "sourceConnectorIndex": 0,
       "targetNodeId": 96,
       "targetConnectorIndex": 3,
       "isChosen": false
     },
     {
-      "sourceNodeId": 91,
+      "sourceNodeId": 90,
       "sourceConnectorIndex": 0,
       "targetNodeId": 96,
       "targetConnectorIndex": 4,
       "isChosen": false
     },
     {
+      "sourceNodeId": 90,
+      "sourceConnectorIndex": 1,
+      "targetNodeId": 96,
+      "targetConnectorIndex": 5,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 95,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 96,
+      "targetConnectorIndex": 6,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 88,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 97,
+      "targetConnectorIndex": 0,
+      "isChosen": false
+    },
+    {
       "sourceNodeId": 96,
       "sourceConnectorIndex": 0,
       "targetNodeId": 97,
+      "targetConnectorIndex": 1,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 89,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 97,
+      "targetConnectorIndex": 2,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 88,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 98,
+      "targetConnectorIndex": 0,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 96,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 98,
+      "targetConnectorIndex": 1,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 97,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 98,
+      "targetConnectorIndex": 2,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 86,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 99,
+      "targetConnectorIndex": 0,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 86,
+      "sourceConnectorIndex": 1,
+      "targetNodeId": 99,
+      "targetConnectorIndex": 1,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 87,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 99,
+      "targetConnectorIndex": 2,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 98,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 99,
+      "targetConnectorIndex": 3,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 99,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 100,
+      "targetConnectorIndex": 0,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 96,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 100,
+      "targetConnectorIndex": 1,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 98,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 100,
+      "targetConnectorIndex": 2,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 99,
+      "sourceConnectorIndex": 1,
+      "targetNodeId": 100,
+      "targetConnectorIndex": 3,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 95,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 100,
+      "targetConnectorIndex": 4,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 100,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 101,
       "targetConnectorIndex": 0,
       "isChosen": false
     }
