@@ -1,0 +1,9 @@
+﻿Produkt,Przepis,Razem [min]
+X,A 30 min → B 10 min → A 4 min → D 8 min,52
+Y,B 12 min → C 15 min → E 10 min,37
+Z,A 8 min → C 20 min → F 15 min → E 6 min,49
+V,F 25 min → E 20 min → B 5 min,50
+W,C 10 min → D 6 min → F 20 min → A 12 min,48
+Q,E 15 min → F 30 min → F 10 min → B 8 min,63
+R,B 20 min → A 15 min → C 12 min → E 8 min → D 5 min,60
+S,F 12 min → E 12 min,24

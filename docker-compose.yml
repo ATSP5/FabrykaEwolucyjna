@@ -1,0 +1,19 @@
+# Builds the FabrykaEwolucyjna GPU run image from the project's Dockerfile.
+# CatNip (Docker source = Build Docker) runs `docker compose build` before each Build and Run
+# and uses the image named in `image:`.
+services:
+  fabrykaewolucyjna:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: fabrykaewolucyjna-cuda:12.2
+    working_dir: /app
+    volumes:
+      - .:/app
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]

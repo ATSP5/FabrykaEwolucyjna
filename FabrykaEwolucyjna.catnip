@@ -1,0 +1,2356 @@
+{
+  "nodes": [
+    {
+      "nodeData": {
+        "codeText": "",
+        "codeFile": "block_code/MachineGroup.py",
+        "maxInputNumber": 50,
+        "maxOutputNumber": 50,
+        "documentationText": "",
+        "documentationFile": "MachineGroup.md",
+        "nodeCathegory": 3,
+        "id": 75,
+        "settings": {
+          "objectifable": false,
+          "canBeMain": true,
+          "inputNumber": 0,
+          "outputNumber": 0,
+          "inputParametersEditorEnabled": false,
+          "outputParametersEditorEnabled": false,
+          "selectedInputConnectionSettings": {
+            "id": 0,
+            "title": "",
+            "connecttionType": 0
+          },
+          "inputConnectionSettings": [],
+          "selectedOutputConnectionSettings": {
+            "id": 0,
+            "title": "",
+            "connecttionType": 0
+          },
+          "outputConnectionSettings": [],
+          "description": "MachineGroup",
+          "isMain": false,
+          "inObjectiveManner": false,
+          "shellType": "Local Shell (system Python)",
+          "sqlScriptType": "MSSQL",
+          "connectionString": "",
+          "inputConstructorRouting": {},
+          "setterMethodNames": {},
+          "outputInputDependencies": {},
+          "disabledInputs": [],
+          "aggregatePrevious": false,
+          "badgeText": "",
+          "badgeColor": "",
+          "fileFormat": "Python",
+          "reportDefinition": "",
+          "dataSchema": "",
+          "interactiveReport": "",
+          "serverResults": "",
+          "nativeBuildTarget": "",
+          "runCompiled": false,
+          "sourceFolder": "",
+          "mappedFrom": ""
+        },
+        "nodeCategory": 3,
+        "title": "MachineGroup",
+        "targetPath": ""
+      },
+      "locationX": 40,
+      "locationY": 900
+    },
+    {
+      "nodeData": {
+        "codeText": "",
+        "codeFile": "block_code/RecipeStep.py",
+        "maxInputNumber": 50,
+        "maxOutputNumber": 50,
+        "documentationText": "",
+        "documentationFile": "RecipeStep.md",
+        "nodeCathegory": 3,
+        "id": 76,
+        "settings": {
+          "objectifable": false,
+          "canBeMain": true,
+          "inputNumber": 0,
+          "outputNumber": 0,
+          "inputParametersEditorEnabled": false,
+          "outputParametersEditorEnabled": false,
+          "selectedInputConnectionSettings": {
+            "id": 0,
+            "title": "",
+            "connecttionType": 0
+          },
+          "inputConnectionSettings": [],
+          "selectedOutputConnectionSettings": {
+            "id": 0,
+            "title": "",
+            "connecttionType": 0
+          },
+          "outputConnectionSettings": [],
+          "description": "RecipeStep",
+          "isMain": false,
+          "inObjectiveManner": false,
+          "shellType": "Local Shell (system Python)",
+          "sqlScriptType": "MSSQL",
+          "connectionString": "",
+          "inputConstructorRouting": {},
+          "setterMethodNames": {},
+          "outputInputDependencies": {},
+          "disabledInputs": [],
+          "aggregatePrevious": false,
+          "badgeText": "",
+          "badgeColor": "",
+          "fileFormat": "Python",
+          "reportDefinition": "",
+          "dataSchema": "",
+          "interactiveReport": "",
+          "serverResults": "",
+          "nativeBuildTarget": "",
+          "runCompiled": false,
+          "sourceFolder": "",
+          "mappedFrom": ""
+        },
+        "nodeCategory": 3,
+        "title": "RecipeStep",
+        "targetPath": ""
+      },
+      "locationX": 260,
+      "locationY": 900
+    },
+    {
+      "nodeData": {
+        "codeText": "",
+        "codeFile": "block_code/Recipe.py",
+        "maxInputNumber": 50,
+        "maxOutputNumber": 50,
+        "documentationText": "",
+        "documentationFile": "Recipe.md",
+        "nodeCathegory": 3,
+        "id": 77,
+        "settings": {
+          "objectifable": false,
+          "canBeMain": true,
+          "inputNumber": 0,
+          "outputNumber": 0,
+          "inputParametersEditorEnabled": false,
+          "outputParametersEditorEnabled": false,
+          "selectedInputConnectionSettings": {
+            "id": 0,
+            "title": "",
+            "connecttionType": 0
+          },
+          "inputConnectionSettings": [],
+          "selectedOutputConnectionSettings": {
+            "id": 0,
+            "title": "",
+            "connecttionType": 0
+          },
+          "outputConnectionSettings": [],
+          "description": "Recipe",
+          "isMain": false,
+          "inObjectiveManner": false,
+          "shellType": "Local Shell (system Python)",
+          "sqlScriptType": "MSSQL",
+          "connectionString": "",
+          "inputConstructorRouting": {},
+          "setterMethodNames": {},
+          "outputInputDependencies": {},
+          "disabledInputs": [],
+          "aggregatePrevious": false,
+          "badgeText": "",
+          "badgeColor": "",
+          "fileFormat": "Python",
+          "reportDefinition": "",
+          "dataSchema": "",
+          "interactiveReport": "",
+          "serverResults": "",
+          "nativeBuildTarget": "",
+          "runCompiled": false,
+          "sourceFolder": "",
+          "mappedFrom": ""
+        },
+        "nodeCategory": 3,
+        "title": "Recipe",
+        "targetPath": ""
+      },
+      "locationX": 480,
+      "locationY": 900
+    },
+    {
+      "nodeData": {
+        "codeText": "",
+        "codeFile": "block_code/ProductionOrder.py",
+        "maxInputNumber": 50,
+        "maxOutputNumber": 50,
+        "documentationText": "",
+        "documentationFile": "ProductionOrder.md",
+        "nodeCathegory": 3,
+        "id": 78,
+        "settings": {
+          "objectifable": false,
+          "canBeMain": true,
+          "inputNumber": 0,
+          "outputNumber": 0,
+          "inputParametersEditorEnabled": false,
+          "outputParametersEditorEnabled": false,
+          "selectedInputConnectionSettings": {
+            "id": 0,
+            "title": "",
+            "connecttionType": 0
+          },
+          "inputConnectionSettings": [],
+          "selectedOutputConnectionSettings": {
+            "id": 0,
+            "title": "",
+            "connecttionType": 0
+          },
+          "outputConnectionSettings": [],
+          "description": "ProductionOrder",
+          "isMain": false,
+          "inObjectiveManner": false,
+          "shellType": "Local Shell (system Python)",
+          "sqlScriptType": "MSSQL",
+          "connectionString": "",
+          "inputConstructorRouting": {},
+          "setterMethodNames": {},
+          "outputInputDependencies": {},
+          "disabledInputs": [],
+          "aggregatePrevious": false,
+          "badgeText": "",
+          "badgeColor": "",
+          "fileFormat": "Python",
+          "reportDefinition": "",
+          "dataSchema": "",
+          "interactiveReport": "",
+          "serverResults": "",
+          "nativeBuildTarget": "",
+          "runCompiled": false,
+          "sourceFolder": "",
+          "mappedFrom": ""
+        },
+        "nodeCategory": 3,
+        "title": "ProductionOrder",
+        "targetPath": ""
+      },
+      "locationX": 700,
+      "locationY": 900
+    },
+    {
+      "nodeData": {
+        "codeText": "",
+        "codeFile": "block_code/FactoryProblem.py",
+        "maxInputNumber": 50,
+        "maxOutputNumber": 50,
+        "documentationText": "",
+        "documentationFile": "FactoryProblem.md",
+        "nodeCathegory": 3,
+        "id": 79,
+        "settings": {
+          "objectifable": false,
+          "canBeMain": true,
+          "inputNumber": 0,
+          "outputNumber": 0,
+          "inputParametersEditorEnabled": false,
+          "outputParametersEditorEnabled": false,
+          "selectedInputConnectionSettings": {
+            "id": 0,
+            "title": "",
+            "connecttionType": 0
+          },
+          "inputConnectionSettings": [],
+          "selectedOutputConnectionSettings": {
+            "id": 0,
+            "title": "",
+            "connecttionType": 0
+          },
+          "outputConnectionSettings": [],
+          "description": "FactoryProblem",
+          "isMain": false,
+          "inObjectiveManner": false,
+          "shellType": "Local Shell (system Python)",
+          "sqlScriptType": "MSSQL",
+          "connectionString": "",
+          "inputConstructorRouting": {},
+          "setterMethodNames": {},
+          "outputInputDependencies": {},
+          "disabledInputs": [],
+          "aggregatePrevious": false,
+          "badgeText": "",
+          "badgeColor": "",
+          "fileFormat": "Python",
+          "reportDefinition": "",
+          "dataSchema": "",
+          "interactiveReport": "",
+          "serverResults": "",
+          "nativeBuildTarget": "",
+          "runCompiled": false,
+          "sourceFolder": "",
+          "mappedFrom": ""
+        },
+        "nodeCategory": 3,
+        "title": "FactoryProblem",
+        "targetPath": ""
+      },
+      "locationX": 920,
+      "locationY": 900
+    },
+    {
+      "nodeData": {
+        "codeText": "",
+        "codeFile": "block_code/EvolutionResult.py",
+        "maxInputNumber": 50,
+        "maxOutputNumber": 50,
+        "documentationText": "",
+        "documentationFile": "EvolutionResult.md",
+        "nodeCathegory": 3,
+        "id": 80,
+        "settings": {
+          "objectifable": false,
+          "canBeMain": true,
+          "inputNumber": 0,
+          "outputNumber": 0,
+          "inputParametersEditorEnabled": false,
+          "outputParametersEditorEnabled": false,
+          "selectedInputConnectionSettings": {
+            "id": 0,
+            "title": "",
+            "connecttionType": 0
+          },
+          "inputConnectionSettings": [],
+          "selectedOutputConnectionSettings": {
+            "id": 0,
+            "title": "",
+            "connecttionType": 0
+          },
+          "outputConnectionSettings": [],
+          "description": "EvolutionResult",
+          "isMain": false,
+          "inObjectiveManner": false,
+          "shellType": "Local Shell (system Python)",
+          "sqlScriptType": "MSSQL",
+          "connectionString": "",
+          "inputConstructorRouting": {},
+          "setterMethodNames": {},
+          "outputInputDependencies": {},
+          "disabledInputs": [],
+          "aggregatePrevious": false,
+          "badgeText": "",
+          "badgeColor": "",
+          "fileFormat": "Python",
+          "reportDefinition": "",
+          "dataSchema": "",
+          "interactiveReport": "",
+          "serverResults": "",
+          "nativeBuildTarget": "",
+          "runCompiled": false,
+          "sourceFolder": "",
+          "mappedFrom": ""
+        },
+        "nodeCategory": 3,
+        "title": "EvolutionResult",
+        "targetPath": ""
+      },
+      "locationX": 1140,
+      "locationY": 900
+    },
+    {
+      "nodeData": {
+        "codeText": "",
+        "codeFile": "block_code/ScheduledOperation.py",
+        "maxInputNumber": 50,
+        "maxOutputNumber": 50,
+        "documentationText": "",
+        "documentationFile": "ScheduledOperation.md",
+        "nodeCathegory": 3,
+        "id": 81,
+        "settings": {
+          "objectifable": false,
+          "canBeMain": true,
+          "inputNumber": 0,
+          "outputNumber": 0,
+          "inputParametersEditorEnabled": false,
+          "outputParametersEditorEnabled": false,
+          "selectedInputConnectionSettings": {
+            "id": 0,
+            "title": "",
+            "connecttionType": 0
+          },
+          "inputConnectionSettings": [],
+          "selectedOutputConnectionSettings": {
+            "id": 0,
+            "title": "",
+            "connecttionType": 0
+          },
+          "outputConnectionSettings": [],
+          "description": "ScheduledOperation",
+          "isMain": false,
+          "inObjectiveManner": false,
+          "shellType": "Local Shell (system Python)",
+          "sqlScriptType": "MSSQL",
+          "connectionString": "",
+          "inputConstructorRouting": {},
+          "setterMethodNames": {},
+          "outputInputDependencies": {},
+          "disabledInputs": [],
+          "aggregatePrevious": false,
+          "badgeText": "",
+          "badgeColor": "",
+          "fileFormat": "Python",
+          "reportDefinition": "",
+          "dataSchema": "",
+          "interactiveReport": "",
+          "serverResults": "",
+          "nativeBuildTarget": "",
+          "runCompiled": false,
+          "sourceFolder": "",
+          "mappedFrom": ""
+        },
+        "nodeCategory": 3,
+        "title": "ScheduledOperation",
+        "targetPath": ""
+      },
+      "locationX": 1360,
+      "locationY": 900
+    },
+    {
+      "nodeData": {
+        "codeText": "",
+        "codeFile": "block_code/FactoryCatalog.py",
+        "maxInputNumber": 50,
+        "maxOutputNumber": 50,
+        "documentationText": "",
+        "documentationFile": "FactoryCatalog.md",
+        "nodeCathegory": 3,
+        "id": 82,
+        "settings": {
+          "objectifable": false,
+          "canBeMain": true,
+          "inputNumber": 0,
+          "outputNumber": 2,
+          "inputParametersEditorEnabled": false,
+          "outputParametersEditorEnabled": true,
+          "selectedInputConnectionSettings": {
+            "id": 0,
+            "title": "",
+            "connecttionType": 0
+          },
+          "inputConnectionSettings": [],
+          "selectedOutputConnectionSettings": {
+            "id": 238,
+            "title": "machines",
+            "connecttionType": 0
+          },
+          "outputConnectionSettings": [
+            {
+              "id": 238,
+              "title": "machines",
+              "connecttionType": 0
+            },
+            {
+              "id": 239,
+              "title": "recipes",
+              "connecttionType": 0
+            }
+          ],
+          "description": "FactoryCatalog",
+          "isMain": false,
+          "inObjectiveManner": false,
+          "shellType": "Local Shell (system Python)",
+          "sqlScriptType": "MSSQL",
+          "connectionString": "",
+          "inputConstructorRouting": {},
+          "setterMethodNames": {},
+          "outputInputDependencies": {},
+          "disabledInputs": [],
+          "aggregatePrevious": false,
+          "badgeText": "",
+          "badgeColor": "",
+          "fileFormat": "Python",
+          "reportDefinition": "",
+          "dataSchema": "",
+          "interactiveReport": "",
+          "serverResults": "",
+          "nativeBuildTarget": "",
+          "runCompiled": false,
+          "sourceFolder": "",
+          "mappedFrom": ""
+        },
+        "nodeCategory": 3,
+        "title": "FactoryCatalog",
+        "targetPath": ""
+      },
+      "locationX": 40,
+      "locationY": 80
+    },
+    {
+      "nodeData": {
+        "codeText": "",
+        "codeFile": "block_code/OrderStreamGenerator.py",
+        "maxInputNumber": 50,
+        "maxOutputNumber": 50,
+        "documentationText": "",
+        "documentationFile": "OrderStreamGenerator.md",
+        "nodeCathegory": 3,
+        "id": 83,
+        "settings": {
+          "objectifable": false,
+          "canBeMain": true,
+          "inputNumber": 2,
+          "outputNumber": 1,
+          "inputParametersEditorEnabled": true,
+          "outputParametersEditorEnabled": true,
+          "selectedInputConnectionSettings": {
+            "id": 240,
+            "title": "machines",
+            "connecttionType": 0
+          },
+          "inputConnectionSettings": [
+            {
+              "id": 240,
+              "title": "machines",
+              "connecttionType": 0
+            },
+            {
+              "id": 241,
+              "title": "recipes",
+              "connecttionType": 0
+            }
+          ],
+          "selectedOutputConnectionSettings": {
+            "id": 242,
+            "title": "orders",
+            "connecttionType": 0
+          },
+          "outputConnectionSettings": [
+            {
+              "id": 242,
+              "title": "orders",
+              "connecttionType": 0
+            }
+          ],
+          "description": "OrderStreamGenerator",
+          "isMain": false,
+          "inObjectiveManner": false,
+          "shellType": "Local Shell (system Python)",
+          "sqlScriptType": "MSSQL",
+          "connectionString": "",
+          "inputConstructorRouting": {},
+          "setterMethodNames": {},
+          "outputInputDependencies": {},
+          "disabledInputs": [],
+          "aggregatePrevious": false,
+          "badgeText": "",
+          "badgeColor": "",
+          "fileFormat": "Python",
+          "reportDefinition": "",
+          "dataSchema": "",
+          "interactiveReport": "",
+          "serverResults": "",
+          "nativeBuildTarget": "",
+          "runCompiled": false,
+          "sourceFolder": "",
+          "mappedFrom": ""
+        },
+        "nodeCategory": 3,
+        "title": "OrderStreamGenerator",
+        "targetPath": ""
+      },
+      "locationX": 332,
+      "locationY": 21
+    },
+    {
+      "nodeData": {
+        "codeText": "",
+        "codeFile": "block_code/ProblemEncoder.py",
+        "maxInputNumber": 50,
+        "maxOutputNumber": 50,
+        "documentationText": "",
+        "documentationFile": "ProblemEncoder.md",
+        "nodeCathegory": 3,
+        "id": 84,
+        "settings": {
+          "objectifable": false,
+          "canBeMain": true,
+          "inputNumber": 3,
+          "outputNumber": 8,
+          "inputParametersEditorEnabled": true,
+          "outputParametersEditorEnabled": true,
+          "selectedInputConnectionSettings": {
+            "id": 243,
+            "title": "machines",
+            "connecttionType": 0
+          },
+          "inputConnectionSettings": [
+            {
+              "id": 243,
+              "title": "machines",
+              "connecttionType": 0
+            },
+            {
+              "id": 244,
+              "title": "recipes",
+              "connecttionType": 0
+            },
+            {
+              "id": 245,
+              "title": "orders",
+              "connecttionType": 0
+            }
+          ],
+          "selectedOutputConnectionSettings": {
+            "id": 246,
+            "title": "problem",
+            "connecttionType": 0
+          },
+          "outputConnectionSettings": [
+            {
+              "id": 246,
+              "title": "problem",
+              "connecttionType": 0
+            },
+            {
+              "id": 247,
+              "title": "job_op_offset",
+              "connecttionType": 0
+            },
+            {
+              "id": 248,
+              "title": "op_machine_type",
+              "connecttionType": 0
+            },
+            {
+              "id": 249,
+              "title": "op_minutes",
+              "connecttionType": 0
+            },
+            {
+              "id": 250,
+              "title": "job_arrival",
+              "connecttionType": 0
+            },
+            {
+              "id": 251,
+              "title": "job_due",
+              "connecttionType": 0
+            },
+            {
+              "id": 252,
+              "title": "job_weight",
+              "connecttionType": 0
+            },
+            {
+              "id": 253,
+              "title": "type_machine_offset",
+              "connecttionType": 0
+            }
+          ],
+          "description": "ProblemEncoder",
+          "isMain": false,
+          "inObjectiveManner": false,
+          "shellType": "Local Shell (system Python)",
+          "sqlScriptType": "MSSQL",
+          "connectionString": "",
+          "inputConstructorRouting": {},
+          "setterMethodNames": {},
+          "outputInputDependencies": {},
+          "disabledInputs": [],
+          "aggregatePrevious": false,
+          "badgeText": "",
+          "badgeColor": "",
+          "fileFormat": "Python",
+          "reportDefinition": "",
+          "dataSchema": "",
+          "interactiveReport": "",
+          "serverResults": "",
+          "nativeBuildTarget": "",
+          "runCompiled": false,
+          "sourceFolder": "",
+          "mappedFrom": ""
+        },
+        "nodeCategory": 3,
+        "title": "ProblemEncoder",
+        "targetPath": ""
+      },
+      "locationX": 438,
+      "locationY": 335
+    },
+    {
+      "nodeData": {
+        "codeText": "",
+        "codeFile": "block_code/PriorityRuleSeeder.py",
+        "maxInputNumber": 50,
+        "maxOutputNumber": 50,
+        "documentationText": "",
+        "documentationFile": "PriorityRuleSeeder.md",
+        "nodeCathegory": 3,
+        "id": 85,
+        "settings": {
+          "objectifable": false,
+          "canBeMain": true,
+          "inputNumber": 1,
+          "outputNumber": 1,
+          "inputParametersEditorEnabled": true,
+          "outputParametersEditorEnabled": true,
+          "selectedInputConnectionSettings": {
+            "id": 254,
+            "title": "problem",
+            "connecttionType": 0
+          },
+          "inputConnectionSettings": [
+            {
+              "id": 254,
+              "title": "problem",
+              "connecttionType": 0
+            }
+          ],
+          "selectedOutputConnectionSettings": {
+            "id": 255,
+            "title": "seeds",
+            "connecttionType": 0
+          },
+          "outputConnectionSettings": [
+            {
+              "id": 255,
+              "title": "seeds",
+              "connecttionType": 0
+            }
+          ],
+          "description": "PriorityRuleSeeder",
+          "isMain": false,
+          "inObjectiveManner": false,
+          "shellType": "Local Shell (system Python)",
+          "sqlScriptType": "MSSQL",
+          "connectionString": "",
+          "inputConstructorRouting": {},
+          "setterMethodNames": {},
+          "outputInputDependencies": {},
+          "disabledInputs": [],
+          "aggregatePrevious": false,
+          "badgeText": "",
+          "badgeColor": "",
+          "fileFormat": "Python",
+          "reportDefinition": "",
+          "dataSchema": "",
+          "interactiveReport": "",
+          "serverResults": "",
+          "nativeBuildTarget": "",
+          "runCompiled": false,
+          "sourceFolder": "",
+          "mappedFrom": ""
+        },
+        "nodeCategory": 3,
+        "title": "PriorityRuleSeeder",
+        "targetPath": ""
+      },
+      "locationX": 700,
+      "locationY": 2
+    },
+    {
+      "nodeData": {
+        "codeText": "",
+        "codeFile": "block_code/PopulationInitializer.py",
+        "maxInputNumber": 50,
+        "maxOutputNumber": 50,
+        "documentationText": "",
+        "documentationFile": "PopulationInitializer.md",
+        "nodeCathegory": 3,
+        "id": 86,
+        "settings": {
+          "objectifable": false,
+          "canBeMain": true,
+          "inputNumber": 2,
+          "outputNumber": 2,
+          "inputParametersEditorEnabled": true,
+          "outputParametersEditorEnabled": true,
+          "selectedInputConnectionSettings": {
+            "id": 256,
+            "title": "problem",
+            "connecttionType": 0
+          },
+          "inputConnectionSettings": [
+            {
+              "id": 256,
+              "title": "problem",
+              "connecttionType": 0
+            },
+            {
+              "id": 257,
+              "title": "seeds",
+              "connecttionType": 0
+            }
+          ],
+          "selectedOutputConnectionSettings": {
+            "id": 258,
+            "title": "population",
+            "connecttionType": 0
+          },
+          "outputConnectionSettings": [
+            {
+              "id": 258,
+              "title": "population",
+              "connecttionType": 0
+            },
+            {
+              "id": 259,
+              "title": "params",
+              "connecttionType": 0
+            }
+          ],
+          "description": "PopulationInitializer",
+          "isMain": false,
+          "inObjectiveManner": false,
+          "shellType": "Local Shell (system Python)",
+          "sqlScriptType": "MSSQL",
+          "connectionString": "",
+          "inputConstructorRouting": {},
+          "setterMethodNames": {},
+          "outputInputDependencies": {},
+          "disabledInputs": [],
+          "aggregatePrevious": false,
+          "badgeText": "",
+          "badgeColor": "",
+          "fileFormat": "Python",
+          "reportDefinition": "",
+          "dataSchema": "",
+          "interactiveReport": "",
+          "serverResults": "",
+          "nativeBuildTarget": "",
+          "runCompiled": false,
+          "sourceFolder": "",
+          "mappedFrom": ""
+        },
+        "nodeCategory": 3,
+        "title": "PopulationInitializer",
+        "targetPath": ""
+      },
+      "locationX": 805,
+      "locationY": 173
+    },
+    {
+      "nodeData": {
+        "codeText": "",
+        "codeFile": "block_code/EvaluateSchedules.cu",
+        "maxInputNumber": 50,
+        "maxOutputNumber": 50,
+        "documentationText": "",
+        "documentationFile": "EvaluateSchedules.md",
+        "nodeCathegory": 4,
+        "id": 87,
+        "settings": {
+          "objectifable": false,
+          "canBeMain": false,
+          "inputNumber": 9,
+          "outputNumber": 1,
+          "inputParametersEditorEnabled": true,
+          "outputParametersEditorEnabled": true,
+          "selectedInputConnectionSettings": {
+            "id": 260,
+            "title": "population",
+            "connecttionType": 0
+          },
+          "inputConnectionSettings": [
+            {
+              "id": 260,
+              "title": "population",
+              "connecttionType": 0
+            },
+            {
+              "id": 261,
+              "title": "job_op_offset",
+              "connecttionType": 0
+            },
+            {
+              "id": 262,
+              "title": "op_machine_type",
+              "connecttionType": 0
+            },
+            {
+              "id": 263,
+              "title": "op_minutes",
+              "connecttionType": 0
+            },
+            {
+              "id": 264,
+              "title": "job_arrival",
+              "connecttionType": 0
+            },
+            {
+              "id": 265,
+              "title": "job_due",
+              "connecttionType": 0
+            },
+            {
+              "id": 266,
+              "title": "job_weight",
+              "connecttionType": 0
+            },
+            {
+              "id": 267,
+              "title": "type_machine_offset",
+              "connecttionType": 0
+            },
+            {
+              "id": 268,
+              "title": "params",
+              "connecttionType": 0
+            }
+          ],
+          "selectedOutputConnectionSettings": {
+            "id": 269,
+            "title": "cost",
+            "connecttionType": 0
+          },
+          "outputConnectionSettings": [
+            {
+              "id": 269,
+              "title": "cost",
+              "connecttionType": 0
+            }
+          ],
+          "description": "EvaluateSchedules",
+          "isMain": false,
+          "inObjectiveManner": false,
+          "shellType": "Local Shell (system Python)",
+          "sqlScriptType": "MSSQL",
+          "connectionString": "",
+          "inputConstructorRouting": {},
+          "setterMethodNames": {},
+          "outputInputDependencies": {},
+          "disabledInputs": [],
+          "aggregatePrevious": false,
+          "badgeText": "",
+          "badgeColor": "",
+          "fileFormat": "",
+          "reportDefinition": "",
+          "dataSchema": "",
+          "interactiveReport": "",
+          "serverResults": "",
+          "nativeBuildTarget": "",
+          "runCompiled": false,
+          "sourceFolder": "",
+          "mappedFrom": ""
+        },
+        "nodeCategory": 4,
+        "title": "EvaluateSchedules",
+        "targetPath": ""
+      },
+      "locationX": 1072,
+      "locationY": 335
+    },
+    {
+      "nodeData": {
+        "codeText": "",
+        "codeFile": "block_code/BreedGeneration.cu",
+        "maxInputNumber": 50,
+        "maxOutputNumber": 50,
+        "documentationText": "",
+        "documentationFile": "BreedGeneration.md",
+        "nodeCathegory": 4,
+        "id": 88,
+        "settings": {
+          "objectifable": false,
+          "canBeMain": false,
+          "inputNumber": 3,
+          "outputNumber": 1,
+          "inputParametersEditorEnabled": true,
+          "outputParametersEditorEnabled": true,
+          "selectedInputConnectionSettings": {
+            "id": 270,
+            "title": "population",
+            "connecttionType": 0
+          },
+          "inputConnectionSettings": [
+            {
+              "id": 270,
+              "title": "population",
+              "connecttionType": 0
+            },
+            {
+              "id": 271,
+              "title": "cost",
+              "connecttionType": 0
+            },
+            {
+              "id": 272,
+              "title": "params",
+              "connecttionType": 0
+            }
+          ],
+          "selectedOutputConnectionSettings": {
+            "id": 273,
+            "title": "children",
+            "connecttionType": 0
+          },
+          "outputConnectionSettings": [
+            {
+              "id": 273,
+              "title": "children",
+              "connecttionType": 0
+            }
+          ],
+          "description": "BreedGeneration",
+          "isMain": false,
+          "inObjectiveManner": false,
+          "shellType": "Local Shell (system Python)",
+          "sqlScriptType": "MSSQL",
+          "connectionString": "",
+          "inputConstructorRouting": {},
+          "setterMethodNames": {},
+          "outputInputDependencies": {},
+          "disabledInputs": [],
+          "aggregatePrevious": false,
+          "badgeText": "",
+          "badgeColor": "",
+          "fileFormat": "",
+          "reportDefinition": "",
+          "dataSchema": "",
+          "interactiveReport": "",
+          "serverResults": "",
+          "nativeBuildTarget": "",
+          "runCompiled": false,
+          "sourceFolder": "",
+          "mappedFrom": ""
+        },
+        "nodeCategory": 4,
+        "title": "BreedGeneration",
+        "targetPath": ""
+      },
+      "locationX": 1360,
+      "locationY": -64
+    },
+    {
+      "nodeData": {
+        "codeText": "",
+        "codeFile": "block_code/ReplaceSurvivors.cu",
+        "maxInputNumber": 50,
+        "maxOutputNumber": 50,
+        "documentationText": "",
+        "documentationFile": "ReplaceSurvivors.md",
+        "nodeCathegory": 4,
+        "id": 89,
+        "settings": {
+          "objectifable": false,
+          "canBeMain": false,
+          "inputNumber": 5,
+          "outputNumber": 2,
+          "inputParametersEditorEnabled": true,
+          "outputParametersEditorEnabled": true,
+          "selectedInputConnectionSettings": {
+            "id": 274,
+            "title": "population",
+            "connecttionType": 0
+          },
+          "inputConnectionSettings": [
+            {
+              "id": 274,
+              "title": "population",
+              "connecttionType": 0
+            },
+            {
+              "id": 275,
+              "title": "cost",
+              "connecttionType": 0
+            },
+            {
+              "id": 276,
+              "title": "children",
+              "connecttionType": 0
+            },
+            {
+              "id": 277,
+              "title": "children_cost",
+              "connecttionType": 0
+            },
+            {
+              "id": 278,
+              "title": "params",
+              "connecttionType": 0
+            }
+          ],
+          "selectedOutputConnectionSettings": {
+            "id": 279,
+            "title": "next_population",
+            "connecttionType": 0
+          },
+          "outputConnectionSettings": [
+            {
+              "id": 279,
+              "title": "next_population",
+              "connecttionType": 0
+            },
+            {
+              "id": 280,
+              "title": "next_cost",
+              "connecttionType": 0
+            }
+          ],
+          "description": "ReplaceSurvivors",
+          "isMain": false,
+          "inObjectiveManner": false,
+          "shellType": "Local Shell (system Python)",
+          "sqlScriptType": "MSSQL",
+          "connectionString": "",
+          "inputConstructorRouting": {},
+          "setterMethodNames": {},
+          "outputInputDependencies": {},
+          "disabledInputs": [],
+          "aggregatePrevious": false,
+          "badgeText": "",
+          "badgeColor": "",
+          "fileFormat": "",
+          "reportDefinition": "",
+          "dataSchema": "",
+          "interactiveReport": "",
+          "serverResults": "",
+          "nativeBuildTarget": "",
+          "runCompiled": false,
+          "sourceFolder": "",
+          "mappedFrom": ""
+        },
+        "nodeCategory": 4,
+        "title": "ReplaceSurvivors",
+        "targetPath": ""
+      },
+      "locationX": 1525,
+      "locationY": 335
+    },
+    {
+      "nodeData": {
+        "codeText": "",
+        "codeFile": "block_code/CUDAKernelLoader.py",
+        "maxInputNumber": 50,
+        "maxOutputNumber": 50,
+        "documentationText": "",
+        "documentationFile": "CUDAKernelLoader.md",
+        "nodeCathegory": 3,
+        "id": 90,
+        "settings": {
+          "objectifable": false,
+          "canBeMain": true,
+          "inputNumber": 3,
+          "outputNumber": 3,
+          "inputParametersEditorEnabled": true,
+          "outputParametersEditorEnabled": true,
+          "selectedInputConnectionSettings": {
+            "id": 281,
+            "title": "cost",
+            "connecttionType": 0
+          },
+          "inputConnectionSettings": [
+            {
+              "id": 281,
+              "title": "cost",
+              "connecttionType": 0
+            },
+            {
+              "id": 282,
+              "title": "children",
+              "connecttionType": 0
+            },
+            {
+              "id": 283,
+              "title": "next_population",
+              "connecttionType": 0
+            }
+          ],
+          "selectedOutputConnectionSettings": {
+            "id": 284,
+            "title": "evaluate_schedules",
+            "connecttionType": 0
+          },
+          "outputConnectionSettings": [
+            {
+              "id": 284,
+              "title": "evaluate_schedules",
+              "connecttionType": 0
+            },
+            {
+              "id": 285,
+              "title": "breed_generation",
+              "connecttionType": 0
+            },
+            {
+              "id": 286,
+              "title": "replace_survivors",
+              "connecttionType": 0
+            }
+          ],
+          "description": "CUDAKernelLoader",
+          "isMain": false,
+          "inObjectiveManner": false,
+          "shellType": "Local Shell (system Python)",
+          "sqlScriptType": "MSSQL",
+          "connectionString": "",
+          "inputConstructorRouting": {},
+          "setterMethodNames": {},
+          "outputInputDependencies": {},
+          "disabledInputs": [],
+          "aggregatePrevious": false,
+          "badgeText": "",
+          "badgeColor": "",
+          "fileFormat": "Python",
+          "reportDefinition": "",
+          "dataSchema": "",
+          "interactiveReport": "",
+          "serverResults": "",
+          "nativeBuildTarget": "",
+          "runCompiled": false,
+          "sourceFolder": "",
+          "mappedFrom": ""
+        },
+        "nodeCategory": 3,
+        "title": "CUDAKernelLoader",
+        "targetPath": ""
+      },
+      "locationX": 1732,
+      "locationY": -48
+    },
+    {
+      "nodeData": {
+        "codeText": "",
+        "codeFile": "block_code/PolishNumberFormat.py",
+        "maxInputNumber": 50,
+        "maxOutputNumber": 50,
+        "documentationText": "",
+        "documentationFile": "PolishNumberFormat.md",
+        "nodeCathegory": 3,
+        "id": 91,
+        "settings": {
+          "objectifable": false,
+          "canBeMain": true,
+          "inputNumber": 0,
+          "outputNumber": 1,
+          "inputParametersEditorEnabled": false,
+          "outputParametersEditorEnabled": true,
+          "selectedInputConnectionSettings": {
+            "id": 0,
+            "title": "",
+            "connecttionType": 0
+          },
+          "inputConnectionSettings": [],
+          "selectedOutputConnectionSettings": {
+            "id": 287,
+            "title": "formatter",
+            "connecttionType": 0
+          },
+          "outputConnectionSettings": [
+            {
+              "id": 287,
+              "title": "formatter",
+              "connecttionType": 0
+            }
+          ],
+          "description": "PolishNumberFormat",
+          "isMain": false,
+          "inObjectiveManner": false,
+          "shellType": "Local Shell (system Python)",
+          "sqlScriptType": "MSSQL",
+          "connectionString": "",
+          "inputConstructorRouting": {},
+          "setterMethodNames": {},
+          "outputInputDependencies": {},
+          "disabledInputs": [],
+          "aggregatePrevious": false,
+          "badgeText": "",
+          "badgeColor": "",
+          "fileFormat": "Python",
+          "reportDefinition": "",
+          "dataSchema": "",
+          "interactiveReport": "",
+          "serverResults": "",
+          "nativeBuildTarget": "",
+          "runCompiled": false,
+          "sourceFolder": "",
+          "mappedFrom": ""
+        },
+        "nodeCategory": 3,
+        "title": "PolishNumberFormat",
+        "targetPath": ""
+      },
+      "locationX": 1853,
+      "locationY": 307
+    },
+    {
+      "nodeData": {
+        "codeText": "",
+        "codeFile": "block_code/EvolutionEngine.py",
+        "maxInputNumber": 50,
+        "maxOutputNumber": 50,
+        "documentationText": "",
+        "documentationFile": "EvolutionEngine.md",
+        "nodeCathegory": 3,
+        "id": 92,
+        "settings": {
+          "objectifable": false,
+          "canBeMain": true,
+          "inputNumber": 7,
+          "outputNumber": 1,
+          "inputParametersEditorEnabled": true,
+          "outputParametersEditorEnabled": true,
+          "selectedInputConnectionSettings": {
+            "id": 288,
+            "title": "evaluate_schedules",
+            "connecttionType": 0
+          },
+          "inputConnectionSettings": [
+            {
+              "id": 288,
+              "title": "evaluate_schedules",
+              "connecttionType": 0
+            },
+            {
+              "id": 289,
+              "title": "breed_generation",
+              "connecttionType": 0
+            },
+            {
+              "id": 290,
+              "title": "replace_survivors",
+              "connecttionType": 0
+            },
+            {
+              "id": 291,
+              "title": "problem",
+              "connecttionType": 0
+            },
+            {
+              "id": 292,
+              "title": "population",
+              "connecttionType": 0
+            },
+            {
+              "id": 293,
+              "title": "params",
+              "connecttionType": 0
+            },
+            {
+              "id": 294,
+              "title": "formatter",
+              "connecttionType": 0
+            }
+          ],
+          "selectedOutputConnectionSettings": {
+            "id": 295,
+            "title": "result",
+            "connecttionType": 0
+          },
+          "outputConnectionSettings": [
+            {
+              "id": 295,
+              "title": "result",
+              "connecttionType": 0
+            }
+          ],
+          "description": "EvolutionEngine",
+          "isMain": false,
+          "inObjectiveManner": false,
+          "shellType": "Local Shell (system Python)",
+          "sqlScriptType": "MSSQL",
+          "connectionString": "",
+          "inputConstructorRouting": {},
+          "setterMethodNames": {},
+          "outputInputDependencies": {},
+          "disabledInputs": [],
+          "aggregatePrevious": false,
+          "badgeText": "",
+          "badgeColor": "",
+          "fileFormat": "Python",
+          "reportDefinition": "",
+          "dataSchema": "",
+          "interactiveReport": "",
+          "serverResults": "",
+          "nativeBuildTarget": "",
+          "runCompiled": false,
+          "sourceFolder": "",
+          "mappedFrom": ""
+        },
+        "nodeCategory": 3,
+        "title": "EvolutionEngine",
+        "targetPath": ""
+      },
+      "locationX": 2131,
+      "locationY": -102
+    },
+    {
+      "nodeData": {
+        "codeText": "",
+        "codeFile": "block_code/ScheduleDecoder.py",
+        "maxInputNumber": 50,
+        "maxOutputNumber": 50,
+        "documentationText": "",
+        "documentationFile": "ScheduleDecoder.md",
+        "nodeCathegory": 3,
+        "id": 93,
+        "settings": {
+          "objectifable": false,
+          "canBeMain": true,
+          "inputNumber": 3,
+          "outputNumber": 1,
+          "inputParametersEditorEnabled": true,
+          "outputParametersEditorEnabled": true,
+          "selectedInputConnectionSettings": {
+            "id": 296,
+            "title": "problem",
+            "connecttionType": 0
+          },
+          "inputConnectionSettings": [
+            {
+              "id": 296,
+              "title": "problem",
+              "connecttionType": 0
+            },
+            {
+              "id": 297,
+              "title": "result",
+              "connecttionType": 0
+            },
+            {
+              "id": 298,
+              "title": "seeds",
+              "connecttionType": 0
+            }
+          ],
+          "selectedOutputConnectionSettings": {
+            "id": 299,
+            "title": "schedules",
+            "connecttionType": 0
+          },
+          "outputConnectionSettings": [
+            {
+              "id": 299,
+              "title": "schedules",
+              "connecttionType": 0
+            }
+          ],
+          "description": "ScheduleDecoder",
+          "isMain": false,
+          "inObjectiveManner": false,
+          "shellType": "Local Shell (system Python)",
+          "sqlScriptType": "MSSQL",
+          "connectionString": "",
+          "inputConstructorRouting": {},
+          "setterMethodNames": {},
+          "outputInputDependencies": {},
+          "disabledInputs": [],
+          "aggregatePrevious": false,
+          "badgeText": "",
+          "badgeColor": "",
+          "fileFormat": "Python",
+          "reportDefinition": "",
+          "dataSchema": "",
+          "interactiveReport": "",
+          "serverResults": "",
+          "nativeBuildTarget": "",
+          "runCompiled": false,
+          "sourceFolder": "",
+          "mappedFrom": ""
+        },
+        "nodeCategory": 3,
+        "title": "ScheduleDecoder",
+        "targetPath": ""
+      },
+      "locationX": 2428,
+      "locationY": 118
+    },
+    {
+      "nodeData": {
+        "codeText": "",
+        "codeFile": "block_code/ScheduleAnalysis.py",
+        "maxInputNumber": 50,
+        "maxOutputNumber": 50,
+        "documentationText": "",
+        "documentationFile": "ScheduleAnalysis.md",
+        "nodeCathegory": 3,
+        "id": 94,
+        "settings": {
+          "objectifable": false,
+          "canBeMain": true,
+          "inputNumber": 3,
+          "outputNumber": 1,
+          "inputParametersEditorEnabled": true,
+          "outputParametersEditorEnabled": true,
+          "selectedInputConnectionSettings": {
+            "id": 300,
+            "title": "problem",
+            "connecttionType": 0
+          },
+          "inputConnectionSettings": [
+            {
+              "id": 300,
+              "title": "problem",
+              "connecttionType": 0
+            },
+            {
+              "id": 301,
+              "title": "result",
+              "connecttionType": 0
+            },
+            {
+              "id": 302,
+              "title": "schedules",
+              "connecttionType": 0
+            }
+          ],
+          "selectedOutputConnectionSettings": {
+            "id": 303,
+            "title": "report",
+            "connecttionType": 0
+          },
+          "outputConnectionSettings": [
+            {
+              "id": 303,
+              "title": "report",
+              "connecttionType": 0
+            }
+          ],
+          "description": "ScheduleAnalysis",
+          "isMain": false,
+          "inObjectiveManner": false,
+          "shellType": "Local Shell (system Python)",
+          "sqlScriptType": "MSSQL",
+          "connectionString": "",
+          "inputConstructorRouting": {},
+          "setterMethodNames": {},
+          "outputInputDependencies": {},
+          "disabledInputs": [],
+          "aggregatePrevious": false,
+          "badgeText": "",
+          "badgeColor": "",
+          "fileFormat": "Python",
+          "reportDefinition": "",
+          "dataSchema": "",
+          "interactiveReport": "",
+          "serverResults": "",
+          "nativeBuildTarget": "",
+          "runCompiled": false,
+          "sourceFolder": "",
+          "mappedFrom": ""
+        },
+        "nodeCategory": 3,
+        "title": "ScheduleAnalysis",
+        "targetPath": ""
+      },
+      "locationX": 2621,
+      "locationY": -102
+    },
+    {
+      "nodeData": {
+        "codeText": "",
+        "codeFile": "block_code/AnalysisFileWriter.py",
+        "maxInputNumber": 50,
+        "maxOutputNumber": 50,
+        "documentationText": "",
+        "documentationFile": "AnalysisFileWriter.md",
+        "nodeCathegory": 3,
+        "id": 95,
+        "settings": {
+          "objectifable": false,
+          "canBeMain": true,
+          "inputNumber": 4,
+          "outputNumber": 2,
+          "inputParametersEditorEnabled": true,
+          "outputParametersEditorEnabled": true,
+          "selectedInputConnectionSettings": {
+            "id": 304,
+            "title": "machines",
+            "connecttionType": 0
+          },
+          "inputConnectionSettings": [
+            {
+              "id": 304,
+              "title": "machines",
+              "connecttionType": 0
+            },
+            {
+              "id": 305,
+              "title": "recipes",
+              "connecttionType": 0
+            },
+            {
+              "id": 306,
+              "title": "orders",
+              "connecttionType": 0
+            },
+            {
+              "id": 307,
+              "title": "report",
+              "connecttionType": 0
+            }
+          ],
+          "selectedOutputConnectionSettings": {
+            "id": 308,
+            "title": "input_tables",
+            "connecttionType": 0
+          },
+          "outputConnectionSettings": [
+            {
+              "id": 308,
+              "title": "input_tables",
+              "connecttionType": 0
+            },
+            {
+              "id": 309,
+              "title": "written_paths",
+              "connecttionType": 0
+            }
+          ],
+          "description": "AnalysisFileWriter",
+          "isMain": false,
+          "inObjectiveManner": false,
+          "shellType": "Local Shell (system Python)",
+          "sqlScriptType": "MSSQL",
+          "connectionString": "",
+          "inputConstructorRouting": {},
+          "setterMethodNames": {},
+          "outputInputDependencies": {},
+          "disabledInputs": [],
+          "aggregatePrevious": false,
+          "badgeText": "",
+          "badgeColor": "",
+          "fileFormat": "Python",
+          "reportDefinition": "",
+          "dataSchema": "",
+          "interactiveReport": "",
+          "serverResults": "",
+          "nativeBuildTarget": "",
+          "runCompiled": false,
+          "sourceFolder": "",
+          "mappedFrom": ""
+        },
+        "nodeCategory": 3,
+        "title": "AnalysisFileWriter",
+        "targetPath": ""
+      },
+      "locationX": 2669,
+      "locationY": 250
+    },
+    {
+      "nodeData": {
+        "codeText": "",
+        "codeFile": "block_code/FactoryDashboard.py",
+        "maxInputNumber": 5,
+        "maxOutputNumber": 10,
+        "documentationText": "",
+        "documentationFile": "FactoryDashboard.md",
+        "nodeCathegory": 29,
+        "id": 96,
+        "settings": {
+          "objectifable": false,
+          "canBeMain": false,
+          "inputNumber": 5,
+          "outputNumber": 1,
+          "inputParametersEditorEnabled": true,
+          "outputParametersEditorEnabled": true,
+          "selectedInputConnectionSettings": {
+            "id": 310,
+            "title": "input_tables",
+            "connecttionType": 0
+          },
+          "inputConnectionSettings": [
+            {
+              "id": 310,
+              "title": "input_tables",
+              "connecttionType": 0
+            },
+            {
+              "id": 311,
+              "title": "result",
+              "connecttionType": 0
+            },
+            {
+              "id": 312,
+              "title": "report",
+              "connecttionType": 0
+            },
+            {
+              "id": 313,
+              "title": "written_paths",
+              "connecttionType": 0
+            },
+            {
+              "id": 314,
+              "title": "formatter",
+              "connecttionType": 0
+            }
+          ],
+          "selectedOutputConnectionSettings": {
+            "id": 315,
+            "title": "show",
+            "connecttionType": 0
+          },
+          "outputConnectionSettings": [
+            {
+              "id": 315,
+              "title": "show",
+              "connecttionType": 0
+            }
+          ],
+          "description": "FactoryDashboard",
+          "isMain": false,
+          "inObjectiveManner": false,
+          "shellType": "Local Shell (system Python)",
+          "sqlScriptType": "MSSQL",
+          "connectionString": "",
+          "inputConstructorRouting": {},
+          "setterMethodNames": {},
+          "outputInputDependencies": {},
+          "disabledInputs": [],
+          "aggregatePrevious": false,
+          "badgeText": "",
+          "badgeColor": "",
+          "fileFormat": "Python",
+          "reportDefinition": "",
+          "dataSchema": "",
+          "interactiveReport": "{\u0022ClassName\u0022:\u0022FactoryDashboard\u0022,\u0022Title\u0022:\u0022Fabryka: harmonogram z ewolucji na GPU\u0022,\u0022Inputs\u0022:[\u0022input_tables\u0022,\u0022result\u0022,\u0022report\u0022,\u0022written_paths\u0022,\u0022formatter\u0022],\u0022Height\u0022:1400,\u0022KeepAlive\u0022:true,\u0022Markup\u0022:\u0022\\u003Ch2\\u003E{title}\\u003C/h2\\u003E\\n\\u003Cp class=\\u0022cn-muted\\u0022\\u003EHarmonogram {orders_count} zlece\\u0144 ({genes_count} operacji) na {machines_count} maszynach.\\nEwolucja: {individuals_text} osobnik\\u00F3w, {generations_text} pokole\\u0144 na {device}. Czas: {seconds_text} s\\n({speed_text} ocen harmonogramu na sekund\\u0119). Ka\\u017Cde pokolenie licz\\u0105 kernele CUDA: BreedGeneration,\\nEvaluateSchedules i ReplaceSurvivors.\\u003C/p\\u003E\\n\\n\\u003Cdiv class=\\u0022cn-grid-4\\u0022\\u003E\\n  {kpi(\\u0022Wa\\u017Cona sp\\u00F3\\u017Anialno\\u015B\\u0107: ewolucja\\u0022, best_weighted)}\\n  {kpi(\\u0022Najlepsza regu\\u0142a: \\u0022 \\u002B best_rule, rule_weighted)}\\n  {kpi(\\u0022Poprawa wzgl\\u0119dem regu\\u0142y\\u0022, improvement)}\\n  {kpi(\\u0022Sp\\u00F3\\u017Anione zlecenia: ewolucja\\u0022, late_text)}\\n\\u003C/div\\u003E\\n\\n\\u003Ch3\\u003EPor\\u00F3wnanie harmonogram\\u00F3w\\u003C/h3\\u003E\\n{table(comparison_text, page_size=10, sortable=False, filter=False, id=\\u0022comparison\\u0022)}\\n\\n\\u003Ch3\\u003EPrzebieg ewolucji\\u003C/h3\\u003E\\n{chart(\\u0022line\\u0022, history, x=\\u0022Pokolenie\\u0022, y=[\\u0022Najlepszy koszt\\u0022, \\u0022\\u015Aredni koszt\\u0022], layout=history_layout, hovertemplate=cost_hover)}\\n\\n\\u003Cdiv class=\\u0022cn-card\\u0022\\u003E\\n  \\u003Cdiv class=\\u0022cn-grid-3\\u0022\\u003E\\n    \\u003Cdiv\\u003E\\u003Cb\\u003EHarmonogram\\u003C/b\\u003E{select(\\u0022schedule_name\\u0022, schedule_names)}\\u003C/div\\u003E\\n    \\u003Cdiv\\u003E\\u003Cb\\u003ETyp maszyny na wykresie Gantta\\u003C/b\\u003E{select(\\u0022machine_type\\u0022, machine_options)}\\u003C/div\\u003E\\n    \\u003Cdiv\\u003E\\u003Cb\\u003ETabela zlece\\u0144\\u003C/b\\u003E{checkbox(\\u0022late_only\\u0022, \\u0022tylko sp\\u00F3\\u017Anione\\u0022)}\\u003C/div\\u003E\\n  \\u003C/div\\u003E\\n\\u003C/div\\u003E\\n\\n\\u003Ch3\\u003EWykres Gantta: {schedule_name}\\u003C/h3\\u003E\\n{plotly(gantt)}\\n\\n\\u003Cdiv class=\\u0022cn-grid-2\\u0022\\u003E\\n  \\u003Cdiv\\u003E\\n    \\u003Ch3\\u003EWykorzystanie maszyn\\u003C/h3\\u003E\\n    {chart(\\u0022bar\\u0022, utilization, x=\\u0022Maszyna\\u0022, y=\\u0022Wykorzystanie [%]\\u0022, layout=utilization_layout, hovertemplate=percent_hover)}\\n  \\u003C/div\\u003E\\n  \\u003Cdiv\\u003E\\n    \\u003Ch3\\u003ENap\\u0142yw zlece\\u0144 na godzin\\u0119\\u003C/h3\\u003E\\n    {chart(\\u0022stacked_bar\\u0022, arrivals, x=\\u0022Godzina\\u0022, y=products, layout=arrivals_layout)}\\n  \\u003C/div\\u003E\\n\\u003C/div\\u003E\\n\\n\\u003Ch3\\u003EWynik zlece\\u0144: {schedule_name}\\u003C/h3\\u003E\\n{table(outcomes_text, page_size=12, sortable=False, id=\\u0022outcomes\\u0022)}\\n\\n\\u003Ch3\\u003EDane wej\\u015Bciowe\\u003C/h3\\u003E\\n\\u003Cdiv class=\\u0022cn-grid-2\\u0022\\u003E\\n  \\u003Cdiv\\u003E\\u003Cb\\u003EMaszyny\\u003C/b\\u003E{table(machines_text, page_size=8, sortable=False, filter=False, id=\\u0022machines\\u0022)}\\u003C/div\\u003E\\n  \\u003Cdiv\\u003E\\u003Cb\\u003EPrzepisy\\u003C/b\\u003E{table(recipes_text, page_size=8, sortable=False, filter=False, id=\\u0022recipes\\u0022)}\\u003C/div\\u003E\\n\\u003C/div\\u003E\\n\\u003Cp\\u003E\\u003Cb\\u003ELosowy strumie\\u0144 zlece\\u0144\\u003C/b\\u003E\\u003C/p\\u003E\\n{table(orders_text, page_size=12, sortable=False, id=\\u0022orders\\u0022)}\\n\\u003Cp class=\\u0022cn-muted\\u0022\\u003EPliki CSV: {paths_text}\\u003C/p\\u003E\\n\u0022,\u0022Code\u0022:\u0022import pandas as pd\\n\\nALL_MACHINES = \\u0022Wszystkie\\u0022\\n\\ndef setup(self):\\n    self.set(\\u0022schedule_name\\u0022, self.report[\\u0022evolution_name\\u0022])\\n    self.set(\\u0022machine_type\\u0022, self.ALL_MACHINES)\\n    self.set(\\u0022late_only\\u0022, False)\\n    print(self.formatter.frame(self.report[\\u0022comparison\\u0022], decimals=0).to_string(index=False))\\n    print(\\u0022Pliki CSV: \\u0022 \\u002B \\u0022, \\u0022.join(self.written_paths))\\n\\ndef _gantt(self, operations, machine_type):\\n    shown = operations if machine_type == self.ALL_MACHINES else operations[operations[\\u0022Typ\\u0022] == machine_type]\\n    number = self.formatter.number\\n    traces = []\\n    for product, group in shown.groupby(\\u0022Produkt\\u0022):\\n        traces.append({\\n            \\u0022type\\u0022: \\u0022bar\\u0022, \\u0022orientation\\u0022: \\u0022h\\u0022, \\u0022name\\u0022: product,\\n            \\u0022y\\u0022: group[\\u0022Maszyna\\u0022].tolist(),\\n            \\u0022x\\u0022: (group[\\u0022Koniec [min]\\u0022] - group[\\u0022Start [min]\\u0022]).tolist(),\\n            \\u0022base\\u0022: group[\\u0022Start [min]\\u0022].tolist(),\\n            \\u0022text\\u0022: [\\u0022%s \\u00B7 %s, krok %d\\u003Cbr\\u003E%s\\u2013%s min\\u0022 % (row[\\u0022Zlecenie\\u0022], product, row[\\u0022Krok\\u0022],\\n                                                        number(row[\\u0022Start [min]\\u0022], 0), number(row[\\u0022Koniec [min]\\u0022], 0))\\n                     for _, row in group.iterrows()],\\n            \\u0022textposition\\u0022: \\u0022none\\u0022,\\n            \\u0022hovertemplate\\u0022: \\u0022%{text}\\u003Cextra\\u003E\\u003C/extra\\u003E\\u0022,\\n        })\\n    machines = sorted(shown[\\u0022Maszyna\\u0022].unique(), reverse=True)\\n    layout = self.formatter.plotly_layout(x_title=\\u0022minuta od pocz\\u0105tku zmiany\\u0022)\\n    layout[\\u0022xaxis\\u0022].update({\\u0022tickformat\\u0022: \\u0022,.0f\\u0022, \\u0022dtick\\u0022: 60})\\n    layout[\\u0022yaxis\\u0022] = {\\u0022type\\u0022: \\u0022category\\u0022, \\u0022categoryorder\\u0022: \\u0022array\\u0022, \\u0022categoryarray\\u0022: machines, \\u0022automargin\\u0022: True}\\n    layout.update({\\u0022barmode\\u0022: \\u0022overlay\\u0022, \\u0022height\\u0022: max(240, 26 * len(machines) \\u002B 90), \\u0022bargap\\u0022: 0.15})\\n    return {\\u0022data\\u0022: traces, \\u0022layout\\u0022: layout}\\n\\ndef _arrivals(self, orders):\\n    hours = orders.assign(Godzina=orders[\\u0022Nap\\u0142yw [min]\\u0022] // 60)\\n    table = hours.pivot_table(index=\\u0022Godzina\\u0022, columns=\\u0022Produkt\\u0022, values=\\u0022Zlecenie\\u0022, aggfunc=\\u0022count\\u0022, fill_value=0)\\n    table = table.reset_index()\\n    table[\\u0022Godzina\\u0022] = [\\u0022%d\\u2013%d h\\u0022 % (hour, hour \\u002B 1) for hour in table[\\u0022Godzina\\u0022]]\\n    table.columns.name = None\\n    return table\\n\\ndef prepare(self):\\n    report, form, tables, result = self.report, self.formatter, self.input_tables, self.result\\n    number = form.number\\n    name = self.get(\\u0022schedule_name\\u0022)\\n    machine_type = self.get(\\u0022machine_type\\u0022)\\n    comparison = report[\\u0022comparison\\u0022]\\n    evolution = comparison[comparison[\\u0022Harmonogram\\u0022] == report[\\u0022evolution_name\\u0022]].iloc[0]\\n    rules = comparison[comparison[\\u0022Harmonogram\\u0022] != report[\\u0022evolution_name\\u0022]]\\n    best_rule = rules.loc[rules[\\u0022Koszt\\u0022].idxmin()]\\n    rule_weighted = int(best_rule[\\u0022Wa\\u017Cona sp\\u00F3\\u017Anialno\\u015B\\u0107 [min]\\u0022])\\n    best_weighted = int(evolution[\\u0022Wa\\u017Cona sp\\u00F3\\u017Anialno\\u015B\\u0107 [min]\\u0022])\\n    outcomes = report[\\u0022outcomes\\u0022][name]\\n    if self.get(\\u0022late_only\\u0022):\\n        outcomes = outcomes[outcomes[\\u0022Sp\\u00F3\\u017Anienie [min]\\u0022] \\u003E 0]\\n    arrivals = self._arrivals(tables[\\u0022orders\\u0022])\\n    utilization_layout = form.plotly_layout(y_title=\\u0022%\\u0022, y_decimals=1)\\n    history_layout = form.plotly_layout(y_title=\\u0022koszt (skala logarytmiczna)\\u0022, x_title=\\u0022pokolenie\\u0022)\\n    history_layout[\\u0022yaxis\\u0022][\\u0022type\\u0022] = \\u0022log\\u0022\\n    arrivals_layout = form.plotly_layout(y_title=\\u0022zlecenia\\u0022)\\n    arrivals_layout[\\u0022xaxis\\u0022][\\u0022type\\u0022] = \\u0022category\\u0022\\n    return {\\n        \\u0022orders_count\\u0022: number(len(tables[\\u0022orders\\u0022]), 0),\\n        \\u0022genes_count\\u0022: number(len(report[\\u0022operations\\u0022][name]), 0),\\n        \\u0022machines_count\\u0022: number(tables[\\u0022machines\\u0022][\\u0022Sztuk\\u0022].sum(), 0),\\n        \\u0022individuals_text\\u0022: number(result.individuals, 0),\\n        \\u0022generations_text\\u0022: number(result.generations, 0),\\n        \\u0022device\\u0022: result.device,\\n        \\u0022seconds_text\\u0022: number(result.seconds, 1),\\n        \\u0022speed_text\\u0022: number(result.individuals * (result.generations \\u002B 1) / result.seconds, 0),\\n        \\u0022best_weighted\\u0022: number(best_weighted, 0) \\u002B \\u0022 min\\u0022,\\n        \\u0022best_rule\\u0022: str(best_rule[\\u0022Harmonogram\\u0022]),\\n        \\u0022rule_weighted\\u0022: number(rule_weighted, 0) \\u002B \\u0022 min\\u0022,\\n        \\u0022improvement\\u0022: form.percent(100.0 * (rule_weighted - best_weighted) / rule_weighted, 1) if rule_weighted else \\u0022nie dotyczy\\u0022,\\n        \\u0022late_text\\u0022: \\u0022%s z %s\\u0022 % (number(evolution[\\u0022Sp\\u00F3\\u017Anione zlecenia\\u0022], 0), number(len(tables[\\u0022orders\\u0022]), 0)),\\n        \\u0022comparison_text\\u0022: form.frame(comparison, decimals=0),\\n        \\u0022history\\u0022: result.history,\\n        \\u0022history_layout\\u0022: history_layout,\\n        \\u0022cost_hover\\u0022: form.hover(),\\n        \\u0022schedule_names\\u0022: report[\\u0022names\\u0022],\\n        \\u0022machine_options\\u0022: [self.ALL_MACHINES] \\u002B tables[\\u0022machines\\u0022][\\u0022Maszyna\\u0022].tolist(),\\n        \\u0022gantt\\u0022: self._gantt(report[\\u0022operations\\u0022][name], machine_type),\\n        \\u0022utilization\\u0022: report[\\u0022utilization\\u0022][name],\\n        \\u0022utilization_layout\\u0022: utilization_layout,\\n        \\u0022percent_hover\\u0022: form.hover(\\u0022%\\u0022, 1),\\n        \\u0022arrivals\\u0022: arrivals,\\n        \\u0022products\\u0022: [column for column in arrivals.columns if column != \\u0022Godzina\\u0022],\\n        \\u0022arrivals_layout\\u0022: arrivals_layout,\\n        \\u0022outcomes_text\\u0022: form.frame(outcomes, decimals=0),\\n        \\u0022machines_text\\u0022: form.frame(tables[\\u0022machines\\u0022], decimals=0),\\n        \\u0022recipes_text\\u0022: form.frame(tables[\\u0022recipes\\u0022], decimals=0),\\n        \\u0022orders_text\\u0022: form.frame(tables[\\u0022orders\\u0022], decimals=0),\\n        \\u0022paths_text\\u0022: \\u0022, \\u0022.join(self.written_paths),\\n    }\\n\u0022,\u0022Style\u0022:\u0022.cn-card { margin-bottom: 12px; }\\nh3 { margin-top: 18px; }\\ntd { white-space: nowrap; }\\n\u0022,\u0022SampleData\u0022:\u0022{}\u0022,\u0022Actions\u0022:[]}",
+          "serverResults": "",
+          "nativeBuildTarget": "",
+          "runCompiled": false,
+          "sourceFolder": "",
+          "mappedFrom": ""
+        },
+        "nodeCategory": 29,
+        "title": "FactoryDashboard",
+        "targetPath": ""
+      },
+      "locationX": 2947,
+      "locationY": 52
+    },
+    {
+      "nodeData": {
+        "codeText": "",
+        "codeFile": "block_code/Main.py",
+        "maxInputNumber": 50,
+        "maxOutputNumber": 50,
+        "documentationText": "",
+        "documentationFile": "Main.md",
+        "nodeCathegory": 3,
+        "id": 97,
+        "settings": {
+          "objectifable": false,
+          "canBeMain": true,
+          "inputNumber": 1,
+          "outputNumber": 0,
+          "inputParametersEditorEnabled": true,
+          "outputParametersEditorEnabled": false,
+          "selectedInputConnectionSettings": {
+            "id": 316,
+            "title": "result",
+            "connecttionType": 0
+          },
+          "inputConnectionSettings": [
+            {
+              "id": 316,
+              "title": "result",
+              "connecttionType": 0
+            }
+          ],
+          "selectedOutputConnectionSettings": {
+            "id": 0,
+            "title": "",
+            "connecttionType": 0
+          },
+          "outputConnectionSettings": [],
+          "description": "Main",
+          "isMain": true,
+          "inObjectiveManner": false,
+          "shellType": "Local Shell (system Python)",
+          "sqlScriptType": "MSSQL",
+          "connectionString": "",
+          "inputConstructorRouting": {},
+          "setterMethodNames": {},
+          "outputInputDependencies": {},
+          "disabledInputs": [],
+          "aggregatePrevious": false,
+          "badgeText": "",
+          "badgeColor": "",
+          "fileFormat": "Python",
+          "reportDefinition": "",
+          "dataSchema": "",
+          "interactiveReport": "",
+          "serverResults": "",
+          "nativeBuildTarget": "",
+          "runCompiled": false,
+          "sourceFolder": "",
+          "mappedFrom": ""
+        },
+        "nodeCategory": 3,
+        "title": "Main",
+        "targetPath": ""
+      },
+      "locationX": 3173,
+      "locationY": -64
+    },
+    {
+      "nodeData": {
+        "codeText": "",
+        "codeFile": "",
+        "maxInputNumber": 0,
+        "maxOutputNumber": 0,
+        "documentationText": "",
+        "documentationFile": "README.md",
+        "nodeCathegory": 30,
+        "id": 98,
+        "settings": {
+          "objectifable": false,
+          "canBeMain": false,
+          "inputNumber": 0,
+          "outputNumber": 0,
+          "inputParametersEditorEnabled": false,
+          "outputParametersEditorEnabled": false,
+          "selectedInputConnectionSettings": {
+            "id": 0,
+            "title": "",
+            "connecttionType": 0
+          },
+          "inputConnectionSettings": [],
+          "selectedOutputConnectionSettings": {
+            "id": 0,
+            "title": "",
+            "connecttionType": 0
+          },
+          "outputConnectionSettings": [],
+          "description": "README",
+          "isMain": false,
+          "inObjectiveManner": false,
+          "shellType": "Local Shell (system Python)",
+          "sqlScriptType": "MSSQL",
+          "connectionString": "",
+          "inputConstructorRouting": {},
+          "setterMethodNames": {},
+          "outputInputDependencies": {},
+          "disabledInputs": [],
+          "aggregatePrevious": false,
+          "badgeText": "",
+          "badgeColor": "",
+          "fileFormat": "",
+          "reportDefinition": "",
+          "dataSchema": "",
+          "interactiveReport": "",
+          "serverResults": "",
+          "nativeBuildTarget": "",
+          "runCompiled": false,
+          "sourceFolder": "",
+          "mappedFrom": ""
+        },
+        "nodeCategory": 30,
+        "title": "README",
+        "targetPath": ""
+      },
+      "locationX": 40,
+      "locationY": 1100
+    },
+    {
+      "nodeData": {
+        "codeText": "",
+        "codeFile": "block_code/Dockerfile_(GPU_run_image).dockerfile",
+        "maxInputNumber": 0,
+        "maxOutputNumber": 0,
+        "documentationText": "",
+        "documentationFile": "Dockerfile_(GPU_run_image).md",
+        "nodeCathegory": 22,
+        "id": 99,
+        "settings": {
+          "objectifable": false,
+          "canBeMain": false,
+          "inputNumber": 0,
+          "outputNumber": 0,
+          "inputParametersEditorEnabled": false,
+          "outputParametersEditorEnabled": false,
+          "selectedInputConnectionSettings": {
+            "id": 0,
+            "title": "",
+            "connecttionType": 0
+          },
+          "inputConnectionSettings": [],
+          "selectedOutputConnectionSettings": {
+            "id": 0,
+            "title": "",
+            "connecttionType": 0
+          },
+          "outputConnectionSettings": [],
+          "description": "Dockerfile (GPU run image)",
+          "isMain": false,
+          "inObjectiveManner": false,
+          "shellType": "Local Shell (system Python)",
+          "sqlScriptType": "MSSQL",
+          "connectionString": "",
+          "inputConstructorRouting": {},
+          "setterMethodNames": {},
+          "outputInputDependencies": {},
+          "disabledInputs": [],
+          "aggregatePrevious": false,
+          "badgeText": "",
+          "badgeColor": "",
+          "fileFormat": "Dockerfile",
+          "reportDefinition": "",
+          "dataSchema": "",
+          "interactiveReport": "",
+          "serverResults": "",
+          "nativeBuildTarget": "",
+          "runCompiled": false,
+          "sourceFolder": "",
+          "mappedFrom": ""
+        },
+        "nodeCategory": 22,
+        "title": "Dockerfile (GPU run image)",
+        "targetPath": "Dockerfile"
+      },
+      "locationX": 260,
+      "locationY": 1100
+    },
+    {
+      "nodeData": {
+        "codeText": "",
+        "codeFile": "block_code/Docker_Compose_(GPU_run_image).yaml",
+        "maxInputNumber": 0,
+        "maxOutputNumber": 0,
+        "documentationText": "",
+        "documentationFile": "Docker_Compose_(GPU_run_image).md",
+        "nodeCathegory": 23,
+        "id": 100,
+        "settings": {
+          "objectifable": false,
+          "canBeMain": false,
+          "inputNumber": 0,
+          "outputNumber": 0,
+          "inputParametersEditorEnabled": false,
+          "outputParametersEditorEnabled": false,
+          "selectedInputConnectionSettings": {
+            "id": 0,
+            "title": "",
+            "connecttionType": 0
+          },
+          "inputConnectionSettings": [],
+          "selectedOutputConnectionSettings": {
+            "id": 0,
+            "title": "",
+            "connecttionType": 0
+          },
+          "outputConnectionSettings": [],
+          "description": "Docker Compose (GPU run image)",
+          "isMain": false,
+          "inObjectiveManner": false,
+          "shellType": "Local Shell (system Python)",
+          "sqlScriptType": "MSSQL",
+          "connectionString": "",
+          "inputConstructorRouting": {},
+          "setterMethodNames": {},
+          "outputInputDependencies": {},
+          "disabledInputs": [],
+          "aggregatePrevious": false,
+          "badgeText": "",
+          "badgeColor": "",
+          "fileFormat": "Docker Compose",
+          "reportDefinition": "",
+          "dataSchema": "",
+          "interactiveReport": "",
+          "serverResults": "",
+          "nativeBuildTarget": "",
+          "runCompiled": false,
+          "sourceFolder": "",
+          "mappedFrom": ""
+        },
+        "nodeCategory": 23,
+        "title": "Docker Compose (GPU run image)",
+        "targetPath": "docker-compose.yml"
+      },
+      "locationX": 480,
+      "locationY": 1100
+    }
+  ],
+  "connections": [
+    {
+      "sourceNodeId": 82,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 83,
+      "targetConnectorIndex": 0,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 82,
+      "sourceConnectorIndex": 1,
+      "targetNodeId": 83,
+      "targetConnectorIndex": 1,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 82,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 84,
+      "targetConnectorIndex": 0,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 82,
+      "sourceConnectorIndex": 1,
+      "targetNodeId": 84,
+      "targetConnectorIndex": 1,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 83,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 84,
+      "targetConnectorIndex": 2,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 84,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 85,
+      "targetConnectorIndex": 0,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 84,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 86,
+      "targetConnectorIndex": 0,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 85,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 86,
+      "targetConnectorIndex": 1,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 86,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 87,
+      "targetConnectorIndex": 0,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 84,
+      "sourceConnectorIndex": 1,
+      "targetNodeId": 87,
+      "targetConnectorIndex": 1,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 84,
+      "sourceConnectorIndex": 2,
+      "targetNodeId": 87,
+      "targetConnectorIndex": 2,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 84,
+      "sourceConnectorIndex": 3,
+      "targetNodeId": 87,
+      "targetConnectorIndex": 3,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 84,
+      "sourceConnectorIndex": 4,
+      "targetNodeId": 87,
+      "targetConnectorIndex": 4,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 84,
+      "sourceConnectorIndex": 5,
+      "targetNodeId": 87,
+      "targetConnectorIndex": 5,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 84,
+      "sourceConnectorIndex": 6,
+      "targetNodeId": 87,
+      "targetConnectorIndex": 6,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 84,
+      "sourceConnectorIndex": 7,
+      "targetNodeId": 87,
+      "targetConnectorIndex": 7,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 86,
+      "sourceConnectorIndex": 1,
+      "targetNodeId": 87,
+      "targetConnectorIndex": 8,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 86,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 88,
+      "targetConnectorIndex": 0,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 87,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 88,
+      "targetConnectorIndex": 1,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 86,
+      "sourceConnectorIndex": 1,
+      "targetNodeId": 88,
+      "targetConnectorIndex": 2,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 86,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 89,
+      "targetConnectorIndex": 0,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 87,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 89,
+      "targetConnectorIndex": 1,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 88,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 89,
+      "targetConnectorIndex": 2,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 87,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 89,
+      "targetConnectorIndex": 3,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 86,
+      "sourceConnectorIndex": 1,
+      "targetNodeId": 89,
+      "targetConnectorIndex": 4,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 87,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 90,
+      "targetConnectorIndex": 0,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 88,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 90,
+      "targetConnectorIndex": 1,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 89,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 90,
+      "targetConnectorIndex": 2,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 90,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 92,
+      "targetConnectorIndex": 0,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 90,
+      "sourceConnectorIndex": 1,
+      "targetNodeId": 92,
+      "targetConnectorIndex": 1,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 90,
+      "sourceConnectorIndex": 2,
+      "targetNodeId": 92,
+      "targetConnectorIndex": 2,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 84,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 92,
+      "targetConnectorIndex": 3,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 86,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 92,
+      "targetConnectorIndex": 4,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 86,
+      "sourceConnectorIndex": 1,
+      "targetNodeId": 92,
+      "targetConnectorIndex": 5,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 91,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 92,
+      "targetConnectorIndex": 6,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 84,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 93,
+      "targetConnectorIndex": 0,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 92,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 93,
+      "targetConnectorIndex": 1,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 85,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 93,
+      "targetConnectorIndex": 2,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 84,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 94,
+      "targetConnectorIndex": 0,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 92,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 94,
+      "targetConnectorIndex": 1,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 93,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 94,
+      "targetConnectorIndex": 2,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 82,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 95,
+      "targetConnectorIndex": 0,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 82,
+      "sourceConnectorIndex": 1,
+      "targetNodeId": 95,
+      "targetConnectorIndex": 1,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 83,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 95,
+      "targetConnectorIndex": 2,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 94,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 95,
+      "targetConnectorIndex": 3,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 95,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 96,
+      "targetConnectorIndex": 0,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 92,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 96,
+      "targetConnectorIndex": 1,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 94,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 96,
+      "targetConnectorIndex": 2,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 95,
+      "sourceConnectorIndex": 1,
+      "targetNodeId": 96,
+      "targetConnectorIndex": 3,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 91,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 96,
+      "targetConnectorIndex": 4,
+      "isChosen": false
+    },
+    {
+      "sourceNodeId": 96,
+      "sourceConnectorIndex": 0,
+      "targetNodeId": 97,
+      "targetConnectorIndex": 0,
+      "isChosen": false
+    }
+  ],
+  "projectType": 0,
+  "preRunCommands": [],
+  "noRedundantCode": true,
+  "engineSettings": [
+    {
+      "name": "main_1",
+      "filePath": "main_1.py",
+      "isSelected": true,
+      "environmentId": "nvidia/cuda:12.2.2-devel-ubuntu22.04",
+      "runMode": "Code Run",
+      "timeoutSeconds": 600,
+      "memoryLimitMb": 1024,
+      "installMode": "Manual",
+      "manualPackages": "numpy==2.2.6\npandas==2.3.3\npycuda==2026.1",
+      "dockerImage": "catnip-fabrykaewolucyjna:nvidia-cuda-12-2-2-devel-ubuntu22-04",
+      "newDockerImageName": "",
+      "showImageParametersOnRun": true,
+      "runInstance": "",
+      "sshMachineId": 0,
+      "sshSudo": false
+    }
+  ],
+  "runSchedule": {
+    "slotCount": 1,
+    "waitForPreviousSlot": true,
+    "rows": [
+      {
+        "script": "main_1",
+        "slots": [
+          1
+        ]
+      }
+    ],
+    "isConfigured": true
+  }
+}

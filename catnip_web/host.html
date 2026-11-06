@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CatNip interactive report</title>
+<!-- The page an Interactive Report is drawn in. CatNip loads it from beside its executable and
+     hands it the report through window.catnip.apply(); the report's own markup and style go into
+     #cn-root and #cn-user-style. Nothing here reaches the network. -->
+<link rel="stylesheet" href="catnip-report.css">
+<style id="cn-user-style"></style>
+<script src="plotly.min.js"></script>
+<script src="catnip-report.js"></script>
+</head>
+<body>
+<div id="cn-status" hidden></div>
+<div id="cn-toasts" aria-live="polite"></div>
+<main id="cn-root"><div class="cn-loading">Waiting for the report…</div></main>
+</body>
+</html>
